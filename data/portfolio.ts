@@ -7,7 +7,7 @@ export const PERSONAL_INFO: PersonalInfo = {
     email: "saepulhayat1122@email.com",
     phone: "+62 85715524122",
     linkedin: "www.linkedin.com/in/saepul-hayatt-003647368",
-    portfolio: "saepul-portfolio.vercel.app",
+    portfolio: "https://cv-portpolio-saepulhayat.vercel.app/",
     about: "I am a final-year Informatics Engineering student at Widyatama University with a strong interest in Full Stack development. Through the Fullstack Web Development program at RevoU, I gained hands-on experience building projects using Flask, PostgreSQL, and React. I have developed RESTful APIs, login systems, and handled database integration. With my technical foundation and strong motivation to grow, I am confident I can be a valuable asset to your company."
 };
 
@@ -84,8 +84,8 @@ export const SKILLS_DATA: Skill[] = [
         color: "from-blue-500 to-blue-600"
     },
     {
-        category: "Full Stack",
-        items: ["Python", "Flask", "PHP", "CodeIgniter"],
+        category: "Backend",
+        items: ["Python", "Flask"],
         icon: "server",
         color: "from-green-500 to-green-600"
     },
